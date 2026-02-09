@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Build
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# CocoaPods
+Pods/
+!Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+iOSInjectionProject/
